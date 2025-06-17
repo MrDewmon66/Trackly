@@ -1,7 +1,15 @@
 :root {
     --off-white: #F9FAFB;
+    --soft-blue: #4A90E2;
 }
 
 body {
     background-color: var(--off-white);
+}
+
+#habit-submit {
+    background-color: var(--soft-blue);
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 20px;
 }
